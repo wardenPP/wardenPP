@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "wpp",
+  "version": "${version}",
+
+  "name": "Warden++",
+  "description": "warden++ is a mod that aims to improve the warden by adding a warden ingot that can be optained by killing the warden and can used to craft gear, tools and more in the future",
+  "authors": [
+    "StormCph"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/warden-pp",
+    "sources": "dont.have.one.yet"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/wpp/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.stormcph.warden.Warden"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
