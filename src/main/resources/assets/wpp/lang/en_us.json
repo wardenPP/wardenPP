@@ -1,1 +1,15 @@
-
+{
+  "item.wpp.warden_ingot": "Warden Ingot",
+  "ItemGroup.warden.general": "Warden++",
+  "item.wpp.warden_boots": "Warden Boots",
+  "item.wpp.warden_chestplate": "Warden Chestplate",
+  "item.wpp.warden_helmet": "Warden Helmet",
+  "item.wpp.warden_leggings": "Warden Leggings",
+  "item.wpp.warden_sword": "Warden Sword",
+  "item.wpp.warden_pickaxe": "Warden pickaxe",
+  "item.wpp.warden_shovel": "Warden Shovel",
+  "item.wpp.warden_hoe": "Warden Hoe",
+  "item.wpp.warden_axe": "Warden Axe",
+  "item.wpp.warden_nugget": "Warden Nugget",
+  "item.wpp.warden_block": "Warden Block"
+}
