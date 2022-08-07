@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "wpp:items/warden_axe"
+    "layer0": "wpp:items/warden_pickaxe"
   }
 }
